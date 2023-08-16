@@ -23,5 +23,5 @@ jobs:
           npm ci
           npm run build
           npx semantic-release
-      - env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

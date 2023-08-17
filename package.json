@@ -2,7 +2,7 @@
   "name": "Playground-semantic-release",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "master": "index.js",
   "directories": {
     "test": "tests"
   },
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JonataNog/Playground-semantic-release/tree/master"
+    "url": "git+https://github.com/JonataNog/Playground-semantic-release.git"
   },
   "keywords": [],
   "author": "",
